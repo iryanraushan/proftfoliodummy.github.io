@@ -1,6 +1,6 @@
 # proftfoliodummy.github.io
 
-view live : (https://iryanraushan.github.io/proftfoliodummy.github.io/)https://iryanraushan.github.io/proftfoliodummy.github.io/
+view live : https://iryanraushan.github.io/proftfoliodummy.github.io/
 
 # Demo 
 
